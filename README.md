@@ -23,7 +23,7 @@ A simple yet powerful 2D floor planner application built using Java. This applic
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/floor-planner.git
+    https://github.com/SaiAashishJ/OOPS_Project_2D_Floor_Planner.git
     ```
 
 2. Open the project in your preferred IDE (Eclipse, IntelliJ, etc.) or build using command line tools.
