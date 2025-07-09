@@ -54,8 +54,6 @@ A simple yet powerful 2D floor planner application built using Java. This applic
 6. **Delete a Room:**
    - Right-click on a room and select the "Delete" option to remove it from the floor plan.
 
-## Screenshots
-
 
 
 
